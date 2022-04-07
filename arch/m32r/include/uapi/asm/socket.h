@@ -74,6 +74,4 @@
 
 #define SO_SELECT_ERR_QUEUE	45
 
-#define SO_MAX_PACING_RATE	46
-
 #endif /* _ASM_M32R_SOCKET_H */
